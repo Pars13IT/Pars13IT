@@ -1,4 +1,4 @@
-[Türkçe](./README.tr.md)
+[Türkçe](./README.md)
 
 ### Pars_IT
 
