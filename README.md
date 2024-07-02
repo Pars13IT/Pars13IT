@@ -2,7 +2,7 @@
 
 ### Pars_IT
 
-Her gün yeni şeyler öğrenen, BT'nin her alanında performansı/kullanıcı deneyimini iyileştirmeye çalışan bir adam.
+Her gün yeni şeyler öğrenen, BT'nin her alanında performansı/kullanıcı deneyimini iyileştirmeye çalışan biri.
 
 ⚡ Fun Facts
 - [YouTube Videoları](https://youtube.com/@pars_it) hazırlıyorum (Yakında başlıcam, söz :)
